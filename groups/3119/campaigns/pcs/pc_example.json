@@ -1,0 +1,176 @@
+{
+	"player-name": "player",
+	"character-name": "character",
+	"character-description": "Words go here about how they look.",
+	"experience-total": 0,
+	"experiece-current": 0,
+	"level": 1,
+	"ancestry": "ancestry",
+	"heritage": "heritage",
+	"background": "background",
+	"class": "class",
+	"skills": [
+		{
+			"skill": "Acrobatics",
+			"key-ability": "Dexterity",
+			"proficiency": 0
+		},
+		{
+			"skill": "Arcana",
+			"key-ability": "Intelligence",
+			"proficiency": 0
+		},
+		{
+			"skill": "Atheltics",
+			"key-ability": "Strength",
+			"proficiency": 0
+		},
+		{
+			"skill": "Crafting",
+			"key-ability": "Intelligence",
+			"proficiency": 0
+		},
+		{
+			"skill": "Deception",
+			"key-ability": "Charisma",
+			"proficiency": 0
+		},
+		{
+			"skill": "Diplomacy",
+			"key-ability": "Charisma",
+			"proficiency": 0
+		},
+		{
+			"skill": "Intimidation",
+			"key-ability": "Charisma",
+			"proficiency": 0
+		},
+		{
+			"skill": "Lore",
+			"key-ability": "Intelligence",
+			"category": "(None)",
+			"proficiency": 0
+		},
+		{
+			"skill": "Medicine",
+			"key-ability": "Wisdom",
+			"proficiency": 0
+		},
+		{
+			"skill": "Nature",
+			"key-ability": "Wisdom",
+			"proficiency": 0
+		},
+		{
+			"skill": "Occultism",
+			"key-ability": "Intelligence",
+			"proficiency": 0
+		},
+		{
+			"skill": "Performance",
+			"key-ability": "Charisma",
+			"proficiency": 0
+		},
+		{
+			"skill": "Religion",
+			"key-ability": "Wisdom",
+			"proficiency": 0
+		},
+		{
+			"skill": "Society",
+			"key-ability": "Intelligence",
+			"proficiency": 0
+		},
+		{
+			"skill": "Stealth",
+			"key-ability": "Dexterity",
+			"proficiency": 0
+		},
+		{
+			"skill": "Survival",
+			"key-ability": "Wisdom",
+			"proficiency": 0
+		},
+		{
+			"skill": "Thievery",
+			"key-ability": "Dexterity",
+			"proficiency": 0
+		}
+	],
+	"feats": {
+		"ancestry": [
+			{
+				"level": 1,
+				"name": "",
+				"tags": ["Tag"]
+			}
+		],
+		"skill": [],
+		"class": [],
+		"general": []
+	},
+	"equipment": {
+
+	},
+	"spells": {
+
+	},
+	"statistics": {
+		"attributes": [
+			{
+				"stat": "Strength",
+				"base": 10,
+				"boosts": 0,
+				"flaws": 0,
+				"bonus": 0,
+				"penalty": 0,
+				"value": 10
+			},
+			{
+				"stat": "Dexterity",
+				"base": 10,
+				"boosts": 0,
+				"flaws": 0,
+				"bonus": 0,
+				"penalty": 0,
+				"value": 10
+			},
+			{
+				"stat": "Constitution",
+				"base": 10,
+				"boosts": 0,
+				"flaws": 0,
+				"bonus": 0,
+				"penalty": 0,
+				"value": 10
+			},
+			{
+				"stat": "Intelligence",
+				"base": 10,
+				"boosts": 0,
+				"flaws": 0,
+				"bonus": 0,
+				"penalty": 0,
+				"value": 10
+			},
+			{
+				"stat": "Wisdom",
+				"base": 10,
+				"boosts": 0,
+				"flaws": 0,
+				"bonus": 0,
+				"penalty": 0,
+				"value": 10
+			},
+			{
+				"stat": "Charisma",
+				"base": 10,
+				"boosts": 0,
+				"flaws": 0,
+				"bonus": 0,
+				"penalty": 0,
+				"value": 10
+			}
+		]
+	}
+}
