@@ -1,0 +1,31 @@
+{
+  "name": "pf2e_engine",
+  "version": "1.0.0",
+  "description": "Tools to help running Pathfinder 2e.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnholyCow/pf2e_engine.git"
+  },
+  "author": "Chris Hartwick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnholyCow/pf2e_engine/issues"
+  },
+  "homepage": "https://github.com/UnholyCow/pf2e_engine#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.56.1"
+  }
+}
